@@ -12,7 +12,7 @@
 Bamazon is a terminal based app that showcases a SQL and node.js shop and product management tool. All based on SQL database.
 
 #========== 2. How to get started? ==========
-Please visit https://drive.google.com/file/d/1tVUX_W2b6ytn_MbIIVl5YQwN4h7Er9Mz/view?usp=sharing and submit try Bamazon!
+Please visit https://drive.google.com/file/d/14u9eOQb-_AEcJHQP4shy2Y-eQptCxoqR/view and try Bamazon!
 
 #========== 3. What can you do? ==========
 * Running the bamazonCustomer.js file:
